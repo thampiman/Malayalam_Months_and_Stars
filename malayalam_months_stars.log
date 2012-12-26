@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2011.7.29)  26 DEC 2012 09:26
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2011.7.29)  26 DEC 2012 10:14
 entering extended mode
 **malayalam_months_stars.tex
-("D:\Documents\PSA\Malayalam Months and Stars\malayalam_months_stars.tex"
+(D:\Documents\PSA\Malayalam_Months_and_Stars\malayalam_months_stars.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -292,7 +292,7 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 ("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
 \bigstrutjot=\dimen124
 )
-("D:\Documents\PSA\Malayalam Months and Stars\malayalam_months_stars.aux")
+(D:\Documents\PSA\Malayalam_Months_and_Stars\malayalam_months_stars.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
@@ -336,8 +336,8 @@ LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
 LaTeX Info: Redefining \nameref on input line 33.
 
-("D:\Documents\PSA\Malayalam Months and Stars\malayalam_months_stars.out")
-("D:\Documents\PSA\Malayalam Months and Stars\malayalam_months_stars.out")
+(D:\Documents\PSA\Malayalam_Months_and_Stars\malayalam_months_stars.out)
+(D:\Documents\PSA\Malayalam_Months_and_Stars\malayalam_months_stars.out)
 \@outlinefile=\write3
 LaTeX Font Info:    Try loading font information for U+msa on input line 38.
 
@@ -350,42 +350,38 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 38.
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1
 
-{C:/Users/Ajay/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+{C:/Users/Ajay/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
 
-("D:\Documents\PSA\Malayalam Months and Stars\malayalam_months_stars.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
+(D:\Documents\PSA\Malayalam_Months_and_Stars\malayalam_months_stars.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
+Package rerunfilecheck Info: File `malayalam_months_stars.out' has not changed.
 
-
-Package rerunfilecheck Warning: File `malayalam_months_stars.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `malayalam_months_stars.out':
-(rerunfilecheck)             Before: 987D5F77470F849127F884042312F2C8;85
-(rerunfilecheck)             After:  C0BD6387241DDBB2BF815C0A37D6D25F;149.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
+(rerunfilecheck)             Checksum: C0BD6387241DDBB2BF815C0A37D6D25F;149.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 6420 strings out of 494053
- 92625 string characters out of 3148606
- 177676 words of memory out of 3000000
- 9608 multiletter control sequences out of 15000+200000
- 11716 words of font info for 46 fonts, out of 3000000 for 9000
+ 6440 strings out of 494053
+ 92775 string characters out of 3148606
+ 178676 words of memory out of 3000000
+ 9610 multiletter control sequences out of 15000+200000
+ 12062 words of font info for 47 fonts, out of 3000000 for 9000
  716 hyphenation exceptions out of 8191
- 29i,8n,28p,267b,401s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,8n,28p,654b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmtt10.pfb>
-Output written on malayalam_months_stars.pdf (2 pages, 85141 bytes).
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmtt10.pfb>
+Output written on malayalam_months_stars.pdf (3 pages, 115087 bytes).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 118 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
+ 25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
